@@ -3,7 +3,6 @@
 ## Usage
 1.Project starts from MainEngine.class You should only create this class and run method startEngine(). 
 You may set a Path file.csv by an argument or by a config.properties.
-
 2.In argument you may set range Date for computing data.
 
 ## What does NetFlowHandler exactly?
